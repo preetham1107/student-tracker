@@ -1,0 +1,32 @@
+[
+    {
+        "timestamp": "2025-05-13 15:34:13",
+        "user_id": "T001",
+        "activity": "Logged in"
+    },
+    {
+        "timestamp": "2025-05-13 15:38:57",
+        "user_id": "T001",
+        "activity": "Updated math mark for Bob Smith (ID: S002) to 100"
+    },
+    {
+        "timestamp": "2025-05-13 15:38:57",
+        "user_id": "T001",
+        "activity": "Updated science mark for Bob Smith (ID: S002) to 100"
+    },
+    {
+        "timestamp": "2025-05-13 15:38:57",
+        "user_id": "T001",
+        "activity": "Updated history mark for Bob Smith (ID: S002) to 100"
+    },
+    {
+        "timestamp": "2025-05-13 15:38:57",
+        "user_id": "T001",
+        "activity": "Updated english mark for Bob Smith (ID: S002) to 100"
+    },
+    {
+        "timestamp": "2025-05-13 15:41:19",
+        "user_id": "T001",
+        "activity": "Logged out"
+    }
+]

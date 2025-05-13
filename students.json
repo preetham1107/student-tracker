@@ -1,0 +1,62 @@
+[
+    {
+        "id": "S001",
+        "name": "Alice Johnson",
+        "age": 20,
+        "course": "Computer Science",
+        "math": 85,
+        "science": 92,
+        "history": 78,
+        "english": 88,
+        "parent_name": "John Johnson",
+        "parent_phone": "123-456-7890"
+    },
+    {
+        "id": "S002",
+        "name": "Bob Smith",
+        "age": 21,
+        "course": "Mechanical",
+        "math": 100,
+        "science": 100,
+        "history": 100,
+        "english": 100,
+        "parent_name": "Mary Smith",
+        "parent_phone": "234-567-8901"
+    },
+    {
+        "id": "S003",
+        "name": "Charlie Brown",
+        "age": 22,
+        "course": "Electrical",
+        "math": 91,
+        "science": 94,
+        "history": 89,
+        "english": 93,
+        "parent_name": "Tom Brown",
+        "parent_phone": "345-678-9012"
+    },
+    {
+        "id": "S004",
+        "name": "Diana Prince",
+        "age": 20,
+        "course": "Civil",
+        "math": 65,
+        "science": 70,
+        "history": 75,
+        "english": 68,
+        "parent_name": "Bruce Prince",
+        "parent_phone": "456-789-0123"
+    },
+    {
+        "id": "S005",
+        "name": "Ethan Hunt",
+        "age": 23,
+        "course": "Computer Science",
+        "math": 78,
+        "science": 82,
+        "history": 77,
+        "english": 85,
+        "parent_name": "Ethan Hunt Sr.",
+        "parent_phone": "567-890-1234"
+    }
+]
